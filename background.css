@@ -1,0 +1,44 @@
+.box{
+    background-image: url("https://tello.com/images/tello/bg_rates_small.webp");
+    height:50vh;
+    width: 100vw;
+    text-align: center;
+}
+.txt{
+    display: flex;
+    justify-content: space-between;
+}
+.line{
+    height: 100px;
+    width: 2px;
+    background-color: aliceblue;
+}
+.color{
+    color: white;
+}
+.see{
+   background-image: linear-gradient(red,orange);
+   padding: 5px;
+   border-radius: 10px;
+   color: aliceblue;
+   padding-left: 50px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   padding-right: 50px;
+}
+.plan{
+    background-image: url("https://tello.com/images/tello/bg_national_bundles_small.webp");
+    height: 50vh;
+    width: 100vw;
+    text-align: center;
+}
+.old{
+    background-image: linear-gradient(blue,white);
+    padding: 10px;
+    border-radius: 20px;
+    color: wheat;
+    padding-left: 50px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   padding-right: 50px;
+}

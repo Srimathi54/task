@@ -1,0 +1,15 @@
+.logo{
+   
+    background-color: rgb(133, 213, 133);
+}
+.col{
+    color: rgb(28, 241, 28);
+}
+.carousel-inner{
+  background-color: aqua;
+}
+
+.outer{
+   display: flex; 
+   justify-content: space-between;
+}
